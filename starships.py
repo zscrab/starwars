@@ -40,6 +40,9 @@ def create_collection():
         ss_c.insert_one(result)
 
 
+# running the function
+
+
 create_collection()
 
 
